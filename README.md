@@ -71,10 +71,11 @@ The results of benchmarking the 3 methods on a Macbook Air (M2) 24GB RAM on macO
     benchScanRandomizedRangesWithoutOverlap.I9 - Mo2.627μs (±3.07%)
     benchScanRandomizedRangesWithoutOverlap.I9 - Mo191.860μs (±0.60%)
     benchScanRandomizedRangesWithoutOverlap.I9 - Mo425.321μs (±1.62%)
-	```
+```
 
 ## Details
-	```
+
+```
 	Subjects: 48, Assertions: 0, Failures: 0, Errors: 0
 +------+-----------------------------------+----------------------------------------------------+-----+------+------------+--------------+--------------+----------------+
 | iter | benchmark                         | subject                                            | set | revs | mem_peak   | time_avg     | comp_z_value | comp_deviation |
