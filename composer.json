@@ -1,0 +1,20 @@
+{
+    "name": "tharbakim/overlapping-ranges",
+    "autoload": {
+        "psr-4": {
+            "OverlappingRanges\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tharbakim",
+            "email": "tharbakim@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    },
+    "require": {
+        "phpbench/phpbench": "^1.4"
+    }
+}
